@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+author: "Ava Hoffman"
+date: "2024-10-23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is the start of my codeathon project!!! 😄
